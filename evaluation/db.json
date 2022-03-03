@@ -1,0 +1,31 @@
+{
+    "users":[
+        {
+            "id":1,
+            "username":"som1",
+            "password":"som1"
+        },
+        {
+            "id":2,
+            "username":"som2",
+            "password":"som2"
+        },
+        {
+            "id":3,
+            "username":"som3",
+            "password":"som3"
+        },
+        {
+            "id":4,
+            "username":"som4",
+            "password":"som4"
+        },
+        {
+            "id":5,
+            "username":"som5",
+            "password":"som5"
+        }
+    ],
+    "posts":[],
+    "comments":[]
+}
