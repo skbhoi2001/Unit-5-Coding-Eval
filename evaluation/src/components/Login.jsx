@@ -21,10 +21,10 @@ useEffect(()=>{
     e.preventDefault()
   for(let i = 0; i<result.length; i++){
     if(result[i].username === username && result[i].passowrd === password){
-        dispatch(loginError());  
+        dispatch(loginSuccess());
       }
        else{
-         dispatch(loginSuccess());
+        dispatch(loginError()); 
     } 
 }
 };
