@@ -18,6 +18,16 @@ export const UserDetails = () => {
       <h1>id: {user.id}</h1>
       <h1>username: {user.username}</h1>
       <h1> password: {user.password}</h1>
+      <h2>Post</h2>
+      {
+        // user.post.map((d)=>{
+        //   return (
+        //   <>
+        //     <p>{d.name}</p>
+        //   </>
+        //     )
+        // })
+      }
     </div>
   )
 }

@@ -3,29 +3,84 @@
         {
             "id":1,
             "username":"som1",
-            "password":"som1"
+            "password":"som1",
+            "posts":[
+                {
+                    "name":"POST_som1"
+                },
+                {
+                    "name":"POST_som1"
+                },
+                {
+                    "name":"POST_som1"
+                }
+            ]
         },
         {
             "id":2,
             "username":"som2",
-            "password":"som2"
+            "password":"som2",
+            "posts":[
+                {
+                    "name":"POST_som2"
+                },
+                {
+                    "name":"POST_som2"
+                },
+                {
+                    "name":"POST_som2"
+                }
+            ]
         },
         {
             "id":3,
             "username":"som3",
-            "password":"som3"
+            "password":"som3",
+            "posts":[
+                {
+                    "name":"POST_som3"
+                },
+                {
+                    "name":"POST_som3"
+                },
+                {
+                    "name":"POST_som3"
+                }
+            ]
         },
         {
             "id":4,
             "username":"som4",
-            "password":"som4"
+            "password":"som4",
+            "posts":[
+                {
+                    "name":"POST_som4"
+                },
+                {
+                    "name":"POST_som4"
+                },
+                {
+                    "name":"POST_som4"
+                }
+            ]
         },
         {
             "id":5,
             "username":"som5",
-            "password":"som5"
+            "password":"som5",
+            "posts":[
+                {
+                    "name":"POST_som5"
+                },
+                {
+                    "name":"POST_som5"
+                },
+                {
+                    "name":"POST_som5"
+                }
+            ]
         }
     ],
-    "posts":[],
+    
     "comments":[]
 }
