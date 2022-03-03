@@ -22,11 +22,11 @@ useEffect(()=>{
   for(let i = 0; i<result.length; i++){
     if(result[i].username === username && result[i].passowrd === password){
         dispatch(loginSuccess());
-        dispatch(loginSuccess());
+        // dispatch(loginSuccess());
       }
        else{
-        // dispatch(loginError()); 
-        dispatch(loginSuccess());
+        dispatch(loginError()); 
+        // dispatch(loginSuccess());
     } 
 }
 };
